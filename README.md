@@ -36,4 +36,5 @@ This repository contains my solutions to various Data Structures and Algorithms 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
