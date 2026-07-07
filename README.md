@@ -8,6 +8,7 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | ------- |
 | [0001-two-sum](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0283-move-zeroes) |
@@ -43,9 +44,14 @@ This repository contains my solutions to various Data Structures and Algorithms 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0169-majority-element) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
