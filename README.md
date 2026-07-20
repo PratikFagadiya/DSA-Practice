@@ -7,6 +7,7 @@ This repository contains my solutions to various Data Structures and Algorithms 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -17,6 +18,7 @@ This repository contains my solutions to various Data Structures and Algorithms 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0283-move-zeroes) |
 ## Hash Table
