@@ -13,16 +13,15 @@ class Solution {
             return;
         }
 
-        for (int i = firstZeroIndex + 1; i < nums.length; i++) {
 
-            if (nums[i] != 0) {
-                int temp = nums[firstZeroIndex];
-                nums[firstZeroIndex] = nums[i];
-                nums[i] = temp;
-                firstZeroIndex++;
+        for(int i = firstZeroIndex; i < nums.length ; i++) {
+            if(nums[i] != 0) {
+               int temp = nums[i];
+               nums[firstZeroIndex] = temp;
+               nums[i] = 0;
+               firstZeroIndex++;
             }
-
-        }
+        }        
 
     }
 }
