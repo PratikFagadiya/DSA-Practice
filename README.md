@@ -12,6 +12,7 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | [0053-maximum-subarray](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/PratikFagadiya/DSA-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -20,6 +21,7 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -46,6 +48,7 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | ------- |
 | [0007-reverse-integer](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0189-rotate-array) |
 ## Divide and Conquer
 |  |
 | ------- |
