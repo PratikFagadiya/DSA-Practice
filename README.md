@@ -17,6 +17,7 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | [0169-majority-element](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/PratikFagadiya/DSA-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -36,6 +37,7 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | [0169-majority-element](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
@@ -44,6 +46,7 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | [0169-majority-element](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -55,6 +58,7 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | [0007-reverse-integer](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -73,8 +77,10 @@ This repository contains my solutions to various Data Structures and Algorithms 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
