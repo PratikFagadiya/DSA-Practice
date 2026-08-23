@@ -7,6 +7,7 @@ This repository contains my solutions to various Data Structures and Algorithms 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0053-maximum-subarray) |
@@ -62,6 +63,7 @@ This repository contains my solutions to various Data Structures and Algorithms 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0242-valid-anagram) |
@@ -113,4 +115,8 @@ This repository contains my solutions to various Data Structures and Algorithms 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0075-sort-colors) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
