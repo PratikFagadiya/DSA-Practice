@@ -44,6 +44,7 @@ This repository contains my solutions to various Data Structures and Algorithms 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0217-contains-duplicate) |
@@ -64,6 +65,7 @@ This repository contains my solutions to various Data Structures and Algorithms 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0125-valid-palindrome) |
@@ -75,6 +77,7 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | ------- |
 | [0007-reverse-integer](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/PratikFagadiya/DSA-Practice/tree/master/0268-missing-number) |
 ## Divide and Conquer
