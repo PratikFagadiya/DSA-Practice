@@ -1,12 +1,15 @@
 class Solution {
     fun containsDuplicate(nums: IntArray): Boolean {
-        val map = mutableSetOf<Int>()
+        val hashSet = mutableSetOf<Int>()
 
-        for(i in 0 until nums.size) {
-            if(map.contains(nums[i])) return true
-            map.add(nums[i])
+        for(i in nums.indices) {
+            if(hashSet.contains(nums[i])) {
+                return true
+            }
+            hashSet.add(nums[i])
         }
-
+    
         return false
     }
+
 }
